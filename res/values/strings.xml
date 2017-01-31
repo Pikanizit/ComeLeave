@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">ComeLeave</string>
+    <string name="MAY_FILE">may.txt</string>
+    <string name="ZERO">0</string>
+    <string-array name="january">
+        <item>9 января</item>
+        <item>10 января</item>
+        <item>11 января</item>
+        <item>12 января</item>
+        <item>13 января</item>
+        <item>16 января</item>
+        <item>17 января</item>
+        <item>18 января</item>
+        <item>19 января</item>
+        <item>20 января</item>
+        <item>23 января</item>
+        <item>24 января</item>
+        <item>25 января</item>
+        <item>26 января</item>
+        <item>27 января</item>
+        <item>30 января</item>
+        <item>31 января</item>
+    </string-array>
+    <string-array name="february">
+        <item>1 февраля</item>
+        <item>2 февраля</item>
+        <item>3 февраля</item>
+        <item>6 февраля</item>
+        <item>7 февраля</item>
+        <item>8 февраля</item>
+        <item>9 февраля</item>
+        <item>10 февраля</item>
+        <item>13 февраля</item>
+        <item>14 февраля</item>
+        <item>15 февраля</item>
+        <item>16 февраля</item>
+        <item>17 февраля</item>
+        <item>20 февраля</item>
+        <item>21 февраля</item>
+        <item>22 февраля</item>
+        <item>24 февраля</item>
+        <item>27 февраля</item>
+        <item>28 февраля</item>
+    </string-array>
+    <string-array name="march">
+        <item>1 марта</item>
+        <item>2 марта</item>
+        <item>3 марта</item>
+        <item>6 марта</item>
+        <item>7 марта</item>
+        <item>9 марта</item>
+        <item>10 марта</item>
+        <item>13 марта</item>
+        <item>14 марта</item>
+        <item>15 марта</item>
+        <item>16 марта</item>
+        <item>17 марта</item>
+        <item>20 марта</item>
+        <item>21 марта</item>
+        <item>22 марта</item>
+        <item>23 марта</item>
+        <item>24 марта</item>
+        <item>27 марта</item>
+        <item>28 марта</item>
+        <item>29 марта</item>
+        <item>30 марта</item>
+        <item>31 марта</item>
+    </string-array>
+    <string-array name="april">
+        <item>3 апреля</item>
+        <item>4 апреля</item>
+        <item>5 апреля</item>
+        <item>6 апреля</item>
+        <item>7 апреля</item>
+        <item>10 апреля</item>
+        <item>11 апреля</item>
+        <item>12 апреля</item>
+        <item>13 апреля</item>
+        <item>14 апреля</item>
+        <item>17 апреля</item>
+        <item>18 апреля</item>
+        <item>19 апреля</item>
+        <item>20 апреля</item>
+        <item>21 апреля</item>
+        <item>24 апреля</item>
+        <item>25 апреля</item>
+        <item>26 апреля</item>
+        <item>27 апреля</item>
+        <item>28 апреля</item>
+    </string-array>
+    <string-array name="may">
+        <item>2 мая</item>
+        <item>3 мая</item>
+        <item>4 мая</item>
+        <item>5 мая</item>
+        <item>8 мая</item>
+        <item>10 мая</item>
+        <item>11 мая</item>
+        <item>12 мая</item>
+        <item>15 мая</item>
+        <item>16 мая</item>
+        <item>17 мая</item>
+        <item>18 мая</item>
+        <item>19 мая</item>
+        <item>22 мая</item>
+        <item>23 мая</item>
+        <item>24 мая</item>
+        <item>25 мая</item>
+        <item>26 мая</item>
+        <item>29 мая</item>
+        <item>30 мая</item>
+        <item>31 мая</item>
+    </string-array>
+    <string-array name="june">
+        <item>1 июня</item>
+        <item>2 июня</item>
+        <item>5 июня</item>
+        <item>6 июня</item>
+        <item>7 июня</item>
+        <item>8 июня</item>
+        <item>9 июня</item>
+        <item>13 июня</item>
+        <item>14 июня</item>
+        <item>15 июня</item>
+        <item>16 июня</item>
+        <item>19 июня</item>
+        <item>20 июня</item>
+        <item>21 июня</item>
+        <item>22 июня</item>
+        <item>23 июня</item>
+        <item>26 июня</item>
+        <item>27 июня</item>
+        <item>28 июня</item>
+        <item>29 июня</item>
+        <item>30 июня</item>
+    </string-array>
+    <string-array name="july">
+        <item>3 июля</item>
+        <item>4 июля</item>
+        <item>5 июля</item>
+        <item>6 июля</item>
+        <item>7 июля</item>
+        <item>10 июля</item>
+        <item>11 июля</item>
+        <item>12 июля</item>
+        <item>13 июля</item>
+        <item>14 июля</item>
+        <item>17 июля</item>
+        <item>18 июля</item>
+        <item>19 июля</item>
+        <item>20 июля</item>
+        <item>21 июля</item>
+        <item>24 июля</item>
+        <item>25 июля</item>
+        <item>26 июля</item>
+        <item>27 июля</item>
+        <item>28 июля</item>
+        <item>31 июля</item>
+    </string-array>
+    <string-array name="august">
+        <item>1 августа</item>
+        <item>2 августа</item>
+        <item>3 августа</item>
+        <item>4 августа</item>
+        <item>7 августа</item>
+        <item>8 августа</item>
+        <item>9 августа</item>
+        <item>10 августа</item>
+        <item>11 августа</item>
+        <item>14 августа</item>
+        <item>15 августа</item>
+        <item>16 августа</item>
+        <item>17 августа</item>
+        <item>18 августа</item>
+        <item>21 августа</item>
+        <item>22 августа</item>
+        <item>23 августа</item>
+        <item>24 августа</item>
+        <item>25 августа</item>
+        <item>28 августа</item>
+        <item>29 августа</item>
+        <item>30 августа</item>
+        <item>31 августа</item>
+    </string-array>
+    <string-array name="september">
+        <item>1 сентября</item>
+        <item>4 сентября</item>
+        <item>5 сентября</item>
+        <item>6 сентября</item>
+        <item>7 сентября</item>
+        <item>8 сентября</item>
+        <item>11 сентября</item>
+        <item>12 сентября</item>
+        <item>13 сентября</item>
+        <item>14 сентября</item>
+        <item>15 сентября</item>
+        <item>18 сентября</item>
+        <item>19 сентября</item>
+        <item>20 сентября</item>
+        <item>21 сентября</item>
+        <item>22 сентября</item>
+        <item>25 сентября</item>
+        <item>26 сентября</item>
+        <item>27 сентября</item>
+        <item>28 сентября</item>
+        <item>29 сентября</item>
+    </string-array>
+    <string-array name="october">
+        <item>2 октября</item>
+        <item>3 октября</item>
+        <item>4 октября</item>
+        <item>5 октября</item>
+        <item>6 октября</item>
+        <item>9 октября</item>
+        <item>10 октября</item>
+        <item>11 октября</item>
+        <item>12 октября</item>
+        <item>13 октября</item>
+        <item>16 октября</item>
+        <item>17 октября</item>
+        <item>18 октября</item>
+        <item>19 октября</item>
+        <item>20 октября</item>
+        <item>23 октября</item>
+        <item>24 октября</item>
+        <item>25 октября</item>
+        <item>26 октября</item>
+        <item>27 октября</item>
+        <item>30 октября</item>
+        <item>31 октября</item>
+    </string-array>
+    <string-array name="november">
+        <item>1 ноября</item>
+        <item>2 ноября</item>
+        <item>3 ноября</item>
+        <item>7 ноября</item>
+        <item>8 ноября</item>
+        <item>9 ноября</item>
+        <item>10 ноября</item>
+        <item>13 ноября</item>
+        <item>14 ноября</item>
+        <item>15 ноября</item>
+        <item>16 ноября</item>
+        <item>17 ноября</item>
+        <item>20 ноября</item>
+        <item>21 ноября</item>
+        <item>22 ноября</item>
+        <item>23 ноября</item>
+        <item>24 ноября</item>
+        <item>27 ноября</item>
+        <item>28 ноября</item>
+        <item>29 ноября</item>
+        <item>30 ноября</item>
+    </string-array>
+    <string-array name="december">
+        <item>1 декабря</item>
+        <item>4 декабря</item>
+        <item>5 декабря</item>
+        <item>6 декабря</item>
+        <item>7 декабря</item>
+        <item>8 декабря</item>
+        <item>11 декабря</item>
+        <item>12 декабря</item>
+        <item>13 декабря</item>
+        <item>14 декабря</item>
+        <item>15 декабря</item>
+        <item>18 декабря</item>
+        <item>19 декабря</item>
+        <item>20 декабря</item>
+        <item>21 декабря</item>
+        <item>22 декабря</item>
+        <item>25 декабря</item>
+        <item>26 декабря</item>
+        <item>27 декабря</item>
+        <item>28 декабря</item>
+        <item>29 декабря</item>
+    </string-array>
+    <string-array name="mounths2016">
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+        </string-array>
+    <string-array name="mounths">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>>>
+</resources>

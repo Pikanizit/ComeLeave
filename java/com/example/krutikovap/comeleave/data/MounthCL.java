@@ -295,9 +295,13 @@ public class MounthCL {
         return _dayCL[countDay].get_currDateNum();
     }
 
+    /**
+     * Сколько осталось дней отработать в месяц
+     * @return сколько по времени дней осталось отработать
+     */
     public String get_EndForMounth(){
         int count = MounthStruct.get_currMounth().length;
-        double proc = (count -  _currentNumberDay) / count;
+        double proc = (double)(count -  _currentNumberDay) / (double)count;
         return String.format("Осталось %2.2f месяца",proc);
     }
 }
